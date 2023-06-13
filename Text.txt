@@ -1,0 +1,11 @@
+    'no-reply@twitch.tv',
+    'reminders@facebookmail.com',
+    'contacto@mail.lider.cl',
+    'Pixabay@community.pixabay.com',
+    'careers@marriotthiring.com',
+    'cuesupport@avid.games',
+    'rcumana@trabajando.com',
+    'katerinasmn649@gmail.com',
+    'recomendaciones@computrabajo.com',
+    'no-reply@n.dribbble.com',
+    'friendsuggestion@facebookmail.com'
