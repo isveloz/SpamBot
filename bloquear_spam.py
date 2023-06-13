@@ -23,23 +23,11 @@ def bloquear_spam(username, password, sender_emails):
     server.logout()
 
 # Configurar los datos de acceso a tu cuenta de correo
-username = 'isaiasveloz41@gmail.com'
-password = 'isaias.veloz_'
+username = ''
+password = ''
 
 # Configurar los remitentes de spam que deseas bloquear
 sender_emails = [
-    'no-reply@twitch.tv',
-    'reminders@facebookmail.com',
-    'contacto@mail.lider.cl',
-    'Pixabay@community.pixabay.com',
-    'careers@marriotthiring.com',
-    'cuesupport@avid.games',
-    'rcumana@trabajando.com',
-    'katerinasmn649@gmail.com',
-    'recomendaciones@computrabajo.com',
-    'no-reply@n.dribbble.com',
-    'friendsuggestion@facebookmail.com'
-    'noreply@redditmail.com'
 ]
 
 # Bloquear el spam
